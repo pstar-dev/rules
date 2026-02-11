@@ -10,5 +10,4 @@ DOMAIN-SUFFIX,guzzoni.apple.com,PROXY
 DOMAIN-SUFFIX,smoot.apple.com,PROXY
 DOMAIN-SUFFIX,gateway.icloud.com,PROXY
 DOMAIN,apps.mzstatic.com,PROXY
-
 DOMAIN-SUFFIX,gspe1-ssl.ls.apple.com,PROXY
