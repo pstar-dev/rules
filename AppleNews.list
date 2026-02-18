@@ -1,23 +1,24 @@
 # NAME: AppleNews
 # UPDATED: 2026/2/20
 
-DOMAIN-SUFFIX,apple.news
-DOMAIN-SUFFIX,news-edge.apple.com
-DOMAIN-SUFFIX,news-client.apple.com
-DOMAIN-SUFFIX,news-events.apple.com
-DOMAIN-SUFFIX,news-assets.apple.com
-DOMAIN-SUFFIX,news-client-search.apple.com
-DOMAIN,news.iadsdk.apple.com
-DOMAIN-SUFFIX,sports.apple.com
-DOMAIN-SUFFIX,scores.apple.com
-DOMAIN-SUFFIX,sportsdata.apple.com
-DOMAIN-SUFFIX,nba.com
-DOMAIN-SUFFIX,espn.com
-DOMAIN-SUFFIX,espncdn.com
-DOMAIN-SUFFIX,akamaized.net
-DOMAIN,gs-loc.apple.com
-DOMAIN,gspe1-ssl.ls.apple.com
-DOMAIN,apple.comscoreresearch.com
-DOMAIN-SUFFIX,news.apple-dns.net
-DOMAIN-SUFFIX,cvws.apple-dns.net
-DOMAIN-SUFFIX,apple-dns.net
+DOMAIN-SUFFIX,apple.news,Proxy
+DOMAIN-SUFFIX,news-edge.apple.com,Proxy
+DOMAIN-SUFFIX,news-client.apple.com,Proxy
+DOMAIN-SUFFIX,news-events.apple.com,Proxy
+DOMAIN-SUFFIX,news-assets.apple.com,Proxy
+DOMAIN-SUFFIX,news-client-search.apple.com,Proxy
+DOMAIN,news.iadsdk.apple.com,Proxy
+DOMAIN-SUFFIX,sports.apple.com,Proxy
+DOMAIN-SUFFIX,scores.apple.com,Proxy
+DOMAIN-SUFFIX,sportsdata.apple.com,Proxy
+DOMAIN-SUFFIX,nba.com,Proxy
+DOMAIN-SUFFIX,espn.com,Proxy
+DOMAIN-SUFFIX,espncdn.com,Proxy
+DOMAIN-SUFFIX,akamaized.net,Proxy
+DOMAIN,gs-loc.apple.com,Proxy
+DOMAIN,gspe1-ssl.ls.apple.com,Proxy
+DOMAIN,apple.comscoreresearch.com,Proxy
+DOMAIN-SUFFIX,news.apple-dns.net,Proxy
+DOMAIN-SUFFIX,cvws.apple-dns.net,Proxy
+DOMAIN-SUFFIX,apple-dns.net,Proxy
+DOMAIN-SUFFIX,gateway.fe.apple-dns.net,Proxy
