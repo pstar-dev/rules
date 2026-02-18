@@ -1,5 +1,5 @@
 # NAME: AppleNews
-# UPDATED: 2026/2/19
+# UPDATED: 2026/2/20
 
 DOMAIN-SUFFIX,apple.news,PROXY
 DOMAIN-SUFFIX,news-edge.apple.com,PROXY
