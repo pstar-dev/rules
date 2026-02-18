@@ -1,6 +1,14 @@
 # NAME: AppleNews
-# UPDATED: 2026-01-26 02:06:40
-# HOST: 2
-# TOTAL: 2
-HOST,gspe1-ssl.ls.apple.com,AppleNews
-HOST,news-client-search.apple.com,AppleNews
+# UPDATED: 2026-02
+DOMAIN-SUFFIX,apple.news
+DOMAIN-SUFFIX,news-edge.apple.com
+DOMAIN-SUFFIX,news-client.apple.com
+DOMAIN-SUFFIX,news-events.apple.com
+DOMAIN-SUFFIX,news-assets.apple.com
+DOMAIN-SUFFIX,news-client-search.apple.com
+DOMAIN,news.iadsdk.apple.com
+DOMAIN,gs-loc.apple.com
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN,apple.comscoreresearch.com
+DOMAIN-SUFFIX,news.apple-dns.net
+DOMAIN-SUFFIX,cvws.apple-dns.net
